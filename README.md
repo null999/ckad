@@ -1,1 +1,3 @@
 # ckad
+
+Environment setup
