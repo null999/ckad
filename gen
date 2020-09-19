@@ -1,7 +1,0 @@
-# pod with port
-
-k run web --image=nginx:1.19.0 --port=80 --dry-run=client -o yaml
-
-
-
-
