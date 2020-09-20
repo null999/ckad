@@ -52,7 +52,7 @@
     "sucmd": "sudo",
     "syntax": true,
     "tabmovement": false,
-    "tabsize": 4,
+    "tabsize": 2,
     "tabstospaces": false,
     "useprimary": true
 }
